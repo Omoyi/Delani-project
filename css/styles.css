@@ -9,13 +9,13 @@
     font-size: 55px;
 }
 h1 {
-    font-size: 40;
-    font-weight: 450;
+    font-size: 25px;
+    font-weight: 600;
 }
-part2 {
-    color: black;
-}
-part3 {
+.part3 {
     background-image: url(../image/s_image.jpg);
     color: white;
+}
+p {
+    font-weight: 500;
 }
