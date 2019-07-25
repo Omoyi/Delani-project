@@ -29,3 +29,7 @@ h1 {
 p {
     font-weight: 500;
 }
+
+.part5 {
+    background-image: url(../image/c_image.jpg);
+}
