@@ -5,9 +5,12 @@
 .row {
     text-align: center;
 }
-p{
+.a {
     font-size: 55px;
 }
 h1 {
-    font-weight: 600;
+    font-weight: 500;
+}
+part2 {
+    color: black;
 }
