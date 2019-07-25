@@ -1,0 +1,13 @@
+.part1 {
+    background-image: url(../image/h_img.jpg);
+    color: white;
+}
+.row {
+    text-align: center;
+}
+p{
+    font-size: 55px;
+}
+h1 {
+    font-weight: 600;
+}
