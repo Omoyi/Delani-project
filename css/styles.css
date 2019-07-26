@@ -26,6 +26,16 @@ h1 {
     color: white;
 }
 
+input {
+     width: 100%;
+}
+
+::placeholder {
+    color: white;
+    font-weight: 400;
+    padding-left: 10px;
+}
+
 p {
     font-weight: 500;
 }
@@ -33,4 +43,10 @@ p {
 .part5 {
     background-image: url(../image/c_image.jpg);
     color: white;
+    display: flex;
+    align-items: center;
+}
+
+.gallery_product {
+    margin-bottom: 30px;
 }
