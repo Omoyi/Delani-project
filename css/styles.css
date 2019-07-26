@@ -27,7 +27,7 @@ h1 {
 }
 
 input {
-     width: 100%;
+     width: 90%;
 }
 
 ::placeholder {
@@ -49,4 +49,8 @@ p {
 
 .gallery_product {
     margin-bottom: 30px;
+}
+
+#container {
+    width: 100%;
 }
