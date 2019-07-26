@@ -1,5 +1,6 @@
 $(document).ready(function(){
-  $("#desi").mouseMove(function(){
+  $("#desi").click(function(){
     $("b").toggle
   })
+
 })
