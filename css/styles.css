@@ -3,7 +3,7 @@
     color: white;
 } 
 
-.row, part4, h2 {
+.row, part4, h2, p, #container {
     text-align: center;
 }
 
@@ -27,7 +27,7 @@ h1 {
 }
 
 input {
-     width: 90%;
+    width: 45%;
 }
 
 ::placeholder {
@@ -51,8 +51,21 @@ p {
     margin-bottom: 30px;
 }
 
+.a {
+    margin-left: 10px;
+}
 
-/* #container {
-    width: 100%;
-} */
+.form-inline > * {
+    margin: 20px !important;
+}
+
+.form-inline {
+    margin-right: 190px;
+}
+
+textarea {
+    margin-top: 9px;
+    margin-left: -160px;
+
+ }
 
