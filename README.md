@@ -11,15 +11,27 @@ and helps the users by doing a project for them
 
 Uwimana Rachel
 
-##Setup instructions
+##BDD
 
+**Input**
+In the provided form fill in your name and email respectively e.g: ***Rachel***, ***myemail@gmail.com***
+there is also a feedback part where you can leave a message.
+
+**output**
+You will receive a message 
 
 ##Technologies used
-Html, css, Bootstrap, jquery and javascript.
+*Html 
+*css
+*Bootstrap
+*jquery
+*javascript
 
-Setup/installation requirements
+##Setup/installation requirements
 
--Ubuntu setup(operating system). -Google chrome. -and Visual Studio code, Atom, ..
+*Ubuntu setup(operating system). 
+*Google chrome. 
+*and Visual Studio code, Atom, ..
 
 ##Contact information
 Email: urakhel7@gmail.com
@@ -27,7 +39,7 @@ Email: urakhel7@gmail.com
 ##License and Copyright information
 ###MIT License
 
-Copyright (c) 2019 John Mutavi
+Copyright (c) 2019 Uwimana Rachel
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

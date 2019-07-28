@@ -24,13 +24,17 @@ $(document).ready(function(){
     $(".c").hide();
     $("#prod").show();
   });
+  $(n11).mouseOver(function(){
+    $("n1").show();
+    $("n1").addclass("nb1");
+  });
 });
 
 $(document).ready(function(){
-  $(n11).mouseOver(function(){
-    $("n1").show();
-  })
-})
+  $("#container").submit(function(){
+    $("")
+  });
+});
 
 
 

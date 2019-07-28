@@ -84,3 +84,21 @@ textarea {
 #n1, #n2, #n3, #n4, #n5, #n6, #n7, #n8 {
     display: none;
 }
+
+.nb1 {
+    color: black;
+    background-color: black;
+    
+}
+
+button {
+    font-size: 20px;
+    color: black;
+    background-color: aliceblue;
+    margin-right: 110px;
+}
+
+.wow :hover {
+    opacity: 0.8;
+    background-color: black;
+}
