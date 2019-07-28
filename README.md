@@ -18,7 +18,8 @@ In the provided form fill in your name and email respectively e.g: ***Rachel***,
 there is also a feedback part where you can leave a message.
 
 **output**
-You will receive a message 
+You will receive a message in a pop up view. 
+It will be thanking you and will contain your name.
 
 ##Technologies used
 *Html 
