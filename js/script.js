@@ -1,3 +1,4 @@
+// Back-end logic / Business logic 
 $(document).ready(function(){
   $("#desi").click(function(){
     $("#desi").hide();
