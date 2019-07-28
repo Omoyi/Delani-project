@@ -8,6 +8,8 @@ $(document).ready(function(){
     $(".aa").hide();
     $("#desi").show();
   });
+});
+$(document).ready(function(){
   $("#dev").click(function(){
     $("#dev").hide();
     $(".b").show();
@@ -16,6 +18,8 @@ $(document).ready(function(){
     $(".b").hide();
     $("#dev").show();
   });
+});  
+$(document).ready(function(){
   $("#prod").click(function(){
     $("#prod").hide();
     $(".c").show();
