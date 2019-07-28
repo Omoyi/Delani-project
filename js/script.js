@@ -27,7 +27,9 @@ $(document).ready(function(){
 });
 
 $(document).ready(function(){
-  $
+  $(n11).mouseOver(function(){
+    $("n1").show();
+  })
 })
 
 
