@@ -4,7 +4,7 @@
     color: white;
 } 
 
-.row, part4, h2, p, #container {
+.row, .wow, part4, h2, p, #container {
     text-align: center;
 }
 
@@ -78,5 +78,9 @@ textarea {
 }
 
 .c {
+    display: none;
+}
+
+#n1, #n2, #n3, #n4, #n5, #n6, #n7, #n8 {
     display: none;
 }

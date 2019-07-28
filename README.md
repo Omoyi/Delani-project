@@ -1,10 +1,15 @@
-#IP3
-Delani Studio
+#IP3/Project name
+
 Delani-project
 
 ##Description of the project
 
+This is a design and software development studio's portfolio. It describes 
+and helps the users by doing a project for them  
+
 ##Author information
+
+Uwimana Rachel
 
 ##Setup instructions
 
