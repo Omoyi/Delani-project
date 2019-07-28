@@ -30,13 +30,13 @@ $(document).ready(function(){
   });
 });
 
-$(document).ready(function(){
+$(document).ready(function(event){
   $("#container").submit(function(){
     var name = $("input#name").val();
     var email = $("input#email").val();
     var comment = $("textarea#comment").val();
-
-    $("#feedback")
+    alert(name + "we have received your message. Thank you for reaching out to us.");
+    event.preventDefault();
   });
 });
 
