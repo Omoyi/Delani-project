@@ -32,7 +32,11 @@ $(document).ready(function(){
 
 $(document).ready(function(){
   $("#container").submit(function(){
-    $("")
+    var name = $("input#name").val();
+    var email = $("input#email").val();
+    var comment = $("textarea#comment").val();
+
+    $("#feedback")
   });
 });
 
