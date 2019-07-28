@@ -1,23 +1,26 @@
+#IP3
+Delani Studio
 Delani-project
-Description of the project
 
-Author information
+##Description of the project
 
-Setup instructions
+##Author information
+
+##Setup instructions
 
 
-Technologies used
+##Technologies used
 Html, css, Bootstrap, jquery and javascript.
 
 Setup/installation requirements
 
 -Ubuntu setup(operating system). -Google chrome. -and Visual Studio code, Atom, ..
 
-Contact information
+##Contact information
 Email: urakhel7@gmail.com
 
-License and Copyright information
-MIT License
+##License and Copyright information
+###MIT License
 
 Copyright (c) 2019 John Mutavi
 
@@ -39,5 +42,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-Link to see site on Github pages
+##Link to see site on Github pages
 https://omoyi.github.io/Delani-project/
