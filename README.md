@@ -1,17 +1,17 @@
-#IP3/Project name
+# IP3/Project name
 
 Delani-project
 
-##Description of the project
+## Description of the project
 
 This is a design and software development studio's portfolio. It describes 
 and helps the users by doing a project for them  
 
-##Author information
+## Author information
 
 Uwimana Rachel
 
-##BDD
+## BDD
 
 **Input**
 In the provided form fill in your name and email respectively e.g: ***Rachel***, ***myemail@gmail.com***
@@ -21,24 +21,24 @@ there is also a feedback part where you can leave a message.
 You will receive a message in a pop up view. 
 It will be thanking you and will contain your name.
 
-##Technologies used
+## Technologies used
 * Html 
 * css
 * Bootstrap
 * jquery
 * javascript
 
-##Setup/installation requirements
+## Setup/installation requirements
 
 * Ubuntu setup(operating system). 
 * Google chrome. 
 * and Visual Studio code, Atom, ..
 
-##Contact information
+## Contact information
 Email: urakhel7@gmail.com
 
-##License and Copyright information
-###MIT License
+## License and Copyright information
+### MIT License
 
 Copyright (c) 2019 **(Uwimana Rachel)**
 
