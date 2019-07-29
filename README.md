@@ -22,17 +22,17 @@ You will receive a message in a pop up view.
 It will be thanking you and will contain your name.
 
 ##Technologies used
-*Html 
-*css
-*Bootstrap
-*jquery
-*javascript
+* Html 
+* css
+* Bootstrap
+* jquery
+* javascript
 
 ##Setup/installation requirements
 
-*Ubuntu setup(operating system). 
-*Google chrome. 
-*and Visual Studio code, Atom, ..
+* Ubuntu setup(operating system). 
+* Google chrome. 
+* and Visual Studio code, Atom, ..
 
 ##Contact information
 Email: urakhel7@gmail.com
@@ -40,7 +40,7 @@ Email: urakhel7@gmail.com
 ##License and Copyright information
 ###MIT License
 
-Copyright (c) 2019 Uwimana Rachel
+Copyright (c) 2019 **(Uwimana Rachel)**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
