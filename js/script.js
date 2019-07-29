@@ -31,11 +31,11 @@ $(document).ready(function(){
 });
 
 $(document).ready(function(event){
-  $("#submit").submit(function(){
+  $("#submit").click(function(){
     var name = $("input#name").val();
     var email = $("input#email").val();
     var comment = $("textarea#comment").val();
-    alert(name + "we have received your message. Thank you for reaching out to us.");
+    alert("Dear " + name + " we have received your message. Thank you for reaching out to us.");
     event.preventDefault();
   });
 });
