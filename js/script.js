@@ -28,8 +28,16 @@ $(document).ready(function(){
 
 var myPictures = ["n11", "n22", "n33", "n44", "n55", "n66", "n77", "n88"];
 myPictures.forEach(function(image) {
-  $("#" + image).mou
-})
+  $("#" + image).mouseover(function(){
+    $("#" + image + " >p").show();
+    $("#" + image + " >h3").show(); 
+  });
+  $("#" + image).mouseout(function(){
+    $("#" + image + " >p").hide();
+    $("#" + image + " >h3").hide();
+  });
+});
+
 $(document).ready(function(event){
   $("#submit").click(function(){
     var name = $("input#name").val();
