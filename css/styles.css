@@ -76,6 +76,7 @@ textarea {
 #n1, #n2, #n3, #n4, #n5, #n6, #n7, #n8 {
     display: none;
     position: absolute;
+    background-color: black;
     top: 10%;
     width: 69%;
     border: 2px solid white;
