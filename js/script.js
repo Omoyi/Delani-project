@@ -24,21 +24,28 @@ $(document).ready(function(){
     $(".c").hide();
     $("#prod").show();
   });
-  $(n11).mouseOver(function(){
-    $("n1").show();
-    $("n1").addclass("nb1");
-  });
 });
 
+var myPictures = ["n11", "n22", "n33", "n44", "n55", "n66", "n77", "n88"];
+myPictures.forEach(function(image) {
+  $("#" + image).mou
+})
 $(document).ready(function(event){
   $("#submit").click(function(){
     var name = $("input#name").val();
     var email = $("input#email").val();
-    var comment = $("textarea#comment").val();
-    alert("Dear " + name + " we have received your message. Thank you for reaching out to us.");
+    var comment = $.trim($("textarea#comment").val());
+    if ((name == "") || (email == "") || (comment == "")) {
+      alert("Please don't skip. Fill in the form!!");
+    }
+    else {
+      alert("Dear " + name + " we have received your message. Thank you for reaching out to us.");
+    }
     event.preventDefault();
   });
 });
+
+
 
 
 
